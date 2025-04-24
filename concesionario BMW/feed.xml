@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Concesionario BMW</title>
+    <link>https://concesionariobmw.netlify.app/</link>
+    <description>Novedades en concesionario</description>
+
+    <item>
+      <title>Ofertas</title>
+      <link>https://www.misitio.com/blog/nuevo-articulo</link>
+      <description>Mostramos las ofertas mas recientes de nuestro concesionario</description>
+    </item>
+
+  </channel>
+</rss>
