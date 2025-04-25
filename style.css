@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(172, 164, 164);
+}
+#foto{
+    background-image: url(imagenes/ferro.jpg);
+    background-size: 55%;
+    
+}
+
+#foto h1{
+    background-color:orange;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    width: 500px;
+    margin: auto;
+}
+nav {
+    background-color: orange;
+    width: 12%; float: left;
+    margin: 1%;
+    
+}
+#primero{
+    margin: 10px;
+    border:1px red solid;
+    background-color: rgb(61, 67, 67);
+}
+#Segundo {
+    margin: 10px;
+    border:1px red solid;
+    background-color: rgb(61, 67, 67);
+    
+}
+main{
+    text-align: center;
+    background-color: rgb(172, 164, 164);
+    margin: 5%;
+}
+footer{
+    text-align: center;
+    
+}
+a{
+    color: orange;
+}
+h1{
+    color: orange;
+}
+
